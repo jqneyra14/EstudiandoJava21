@@ -5,8 +5,6 @@ package org.example.data;
  **/
 public enum Rating {
 
-
-
     NOT_RATED("\u2606\u2606\u2606\u2606\u2606"),
     ONE_STAR("\u2605\u2606\u2606\u2606\u2606"),
     TWO_STAR("\u2605\u2605\u2606\u2606\u2606"),
